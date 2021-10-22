@@ -1,0 +1,1 @@
+[{"productId": 1, "productName": "MI", "price": 22000.5, "rating": 4.2}, {"productId": 2, "productName": "Iphone", "price": 115000.5, "rating": 4.3}, {"productId": 3, "productName": "Oneplus", "price": 55000.5, "rating": 4.1}, {"productId": "4", "productName": "Xoami", "price": "23550", "rating": "4.0"}]
